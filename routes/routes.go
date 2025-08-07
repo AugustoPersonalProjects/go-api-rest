@@ -7,7 +7,7 @@ import (
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 	"github.com/lopeslyra/go-api-rest/controllers"
-	"github.com/lopeslyra/go-api-rest/middleware"
+	"github.com/lopeslyra/go-api-rest/middlewares"
 )
 
 func HandleResquest() {
